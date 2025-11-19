@@ -1,1 +1,0 @@
-# vercel-static-demo
